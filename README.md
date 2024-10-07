@@ -1,16 +1,25 @@
-# dicee_flutter
+# dicee_flutter 🎲
 
-A new Flutter project.
+A fun and interactive dice rolling app built using Flutter! This project is part of the "Complete Flutter Development Bootcamp with Dart" Udemy course. The app allows users to roll two dice with the press of a button, generating random dice values.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- 🎲 Roll two dice by tapping a button.
+- 🎨 Simple, clean, and engaging user interface.
+- 🔀 Generates random dice values on each roll.
 
-A few resources to get you started if this is your first Flutter project:
+## Demo Video
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Demo of Dicee App](gifs/demo.gif)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How it Works
+The app generates two random numbers between 1 and 6 using Dart’s Random() class, simulating the roll of two dice. The dice images on the screen are updated based on these random numbers.
+
+## Project Structure
+lib/: Contains the main code for the app.
+main.dart: The entry point of the app.
+
+## Technologies Used
+Flutter: UI toolkit for building natively compiled mobile apps.
+Dart: Programming language used in Flutter.
+Android Studio: IDE used for development.

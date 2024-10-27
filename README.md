@@ -23,3 +23,8 @@ The app generates two random numbers between 1 and 6 using Dart’s Random() cla
 - Flutter: UI toolkit for building natively compiled mobile apps.
 - Dart: Programming language used in Flutter.
 - Android Studio: IDE used for development.
+
+  ## 📚 Resources
+- **Flutter Documentation**: [flutter.dev](https://flutter.dev)
+- **Dart Language**: [dart.dev](https://dart.dev)
+- **Course Reference**: *The Complete Flutter Development Bootcamp with Dart* by Angela Yu  
